@@ -17,3 +17,4 @@ xhr.setRequestHeader("content-type", "application/json");
 xhr.setRequestHeader("cache-control", "no-cache");
 
 xhr.send(data);
+//https://github.com/RestDB/clientexamples/blob/master/jQuery/index.html
